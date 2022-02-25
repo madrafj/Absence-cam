@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.madraf.absence_cam",
+      "sha256_cert_fingerprints":
+        ["4F:76:C5:DF:69:8C:A2:C8:C9:C8:B2:43:9C:F1:C3:07:29:53:E5:E8:AF:67:C3:C7:2A:DC:1C:CF:B7:C5:8E:44"]
+    }
+  }
+]
