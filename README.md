@@ -44,7 +44,7 @@ Install from https://absense-cam.vercel.app/ or from playstore https://play.goog
     6. Click **Proceed** to open confirmation window
     7. Click **Update** to save the result to database
 2. Change current date (optional)
-    1. Click **Calendar Icon** [5] on top right (We recommend you to do this before choosing class/group or before take a photo)
+    1. Click **Calendar Icon** [5] on top right (We recommend you to do this before choosing class/group or before taking a photo)
     2. Choose the desired date
 ### C. Attendance Data Menu
 ![image](https://user-images.githubusercontent.com/39622753/155893711-cca3d746-a2f7-43b1-b65a-d5b691aea750.png)
